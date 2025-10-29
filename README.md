@@ -42,8 +42,10 @@ The project demonstrates modular programming, data analysis, and plotting using 
 3. `ex3_question1.pdf` — generated figure showing early simulation results  
 4. `ex3_question3.pdf` — final combined renewable output figure  
 
-### ⚙️ Example Output  
-![Renewable Energy Plot](./Part2_Exercise3/ex3_question3.pdf)
+### ⚙️ Example Outputs
+![Renewable Energy Plot](./Part2_Exercise3/ex3_question3-1.png)
+![Solar Power Plot](./Part2_Exercise3/ex3_question5-1.png)
+![Wind Power Plot](./Part2_Exercise3/ex3_question1-1.png)
 
 ---
 
