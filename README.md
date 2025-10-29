@@ -1,4 +1,5 @@
-# 🧮 Introduction to Computer Programming  
+# 🧮Python Simulation of Vegetation and Renewable-Systems
+
 **University of Bristol — EMAT10007 (2023)**  
 
 Python coursework applying computational modelling to environmental and renewable-energy systems.  
