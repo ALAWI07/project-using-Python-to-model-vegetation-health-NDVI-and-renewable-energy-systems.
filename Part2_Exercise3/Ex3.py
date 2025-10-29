@@ -1,7 +1,3 @@
-
-
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
@@ -58,3 +54,4 @@ def ising_main(population, alpha=0.01, H=0.1):
 # Usage
 pop = -np.ones((100, 100))
 ising_main(pop, 0.01, 0.1)
+
